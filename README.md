@@ -8,18 +8,21 @@ A curated resource base for understanding equine-assisted psychotherapy, equine-
 
 If you are participating in horse-based therapy rather than training to become a practitioner, begin with:
 
-1. [START-HERE.md](START-HERE.md) — the shortest useful introduction and a one-hour listening plan.
-2. [personal/session-framework.md](personal/session-framework.md) — simple prompts for before, during and after a session.
-3. [resources/podcasts.md](resources/podcasts.md) — participant-friendly audio resources.
-4. [resources/evidence-and-standards.md](resources/evidence-and-standards.md) — what research actually supports, what remains uncertain, and professional standards.
-5. [worksheets/session-notes.txt](worksheets/session-notes.txt) — a printable plain-text reflection template for one session.
+1. [downloads/JoshHorses_Field_Guide.pdf](downloads/JoshHorses_Field_Guide.pdf) — a four-page printable field guide covering before/during/after a session, assertiveness, evidence, listening and horse welfare.
+2. [START-HERE.md](START-HERE.md) — the shortest useful introduction and a one-hour listening plan.
+3. [personal/session-framework.md](personal/session-framework.md) — simple prompts for before, during and after a session.
+4. [resources/podcasts.md](resources/podcasts.md) — participant-friendly audio resources.
+5. [resources/evidence-and-standards.md](resources/evidence-and-standards.md) — what research actually supports, what remains uncertain, and professional standards.
+6. [worksheets/session-notes.txt](worksheets/session-notes.txt) — a printable plain-text reflection template for one session.
 
 ## Repository map
 
+- `downloads/JoshHorses_Field_Guide.pdf` — original printable participant field guide.
 - `resources/books.md` — recommended books, from accessible introductions to clinical texts.
 - `resources/podcasts.md` — Spotify-first listening, plus relevant episodes available elsewhere.
 - `resources/evidence-and-standards.md` — systematic reviews, EAGALA, PATH Intl., ethics and terminology.
 - `resources/research-bibliography.md` — compact bibliography of key studies and reviews with DOI/PubMed links.
+- `resources/references.bib` — BibTeX versions of core research references.
 - `resources/australia-and-dubbo.md` — Australian training/professional context and Dubbo resources.
 - `resources/open-access-and-downloads.md` — legitimate open-access articles, manuals and PDF links.
 - `resources/horse-welfare-and-safety.md` — IAHAIO guidance, the Five Domains, welfare research and participant safety.
