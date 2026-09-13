@@ -12,15 +12,19 @@ If you are participating in horse-based therapy rather than training to become a
 2. [personal/session-framework.md](personal/session-framework.md) — simple prompts for before, during and after a session.
 3. [resources/podcasts.md](resources/podcasts.md) — participant-friendly audio resources.
 4. [resources/evidence-and-standards.md](resources/evidence-and-standards.md) — what research actually supports, what remains uncertain, and professional standards.
+5. [worksheets/session-notes.txt](worksheets/session-notes.txt) — a printable plain-text reflection template for one session.
 
 ## Repository map
 
 - `resources/books.md` — recommended books, from accessible introductions to clinical texts.
 - `resources/podcasts.md` — Spotify-first listening, plus relevant episodes available elsewhere.
 - `resources/evidence-and-standards.md` — systematic reviews, EAGALA, PATH Intl., ethics and terminology.
+- `resources/research-bibliography.md` — compact bibliography of key studies and reviews with DOI/PubMed links.
 - `resources/australia-and-dubbo.md` — Australian training/professional context and Dubbo resources.
 - `resources/open-access-and-downloads.md` — legitimate open-access articles, manuals and PDF links.
+- `resources/horse-welfare-and-safety.md` — IAHAIO guidance, the Five Domains, welfare research and participant safety.
 - `personal/session-framework.md` — a practical reflection structure focused on embodied awareness, boundaries and assertiveness.
+- `worksheets/session-notes.txt` — printable plain-text session reflection template.
 - `archive/chat-summary-2026-09-13.md` — consolidated record of the horse-therapy discussion that led to this resource base.
 - `archive/prior-horse-discussions.md` — older horse-related material separated from the therapy core.
 - `sources/private-source-findings.md` — a privacy-safe index of relevant things found in Gmail/Google Drive, without republishing private correspondence.
