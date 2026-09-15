@@ -40,8 +40,35 @@ A prior job/career search surfaced a **full-time Equine Retail Trainee** positio
 
 This is retained because it is genuine local horse-related history, though it is not a therapy resource.
 
+## Historical outdoor-therapy / AABAT context
+
+Privacy-safe source searches also surfaced older references to **equine therapy as a modality within broader outdoor/bush/adventure therapy practice**. Relevant general lessons included:
+
+- equine therapy appearing in AABAT newsletter/symposium material;
+- horse-based programs being discussed alongside other outdoor therapeutic approaches;
+- sector efforts to map programs/resources into online databases;
+- wider outdoor-sector work on incident reporting, learning and safety systems.
+
+Private correspondence and identifying third-party details are not republished here. Only general, non-sensitive context is retained.
+
+## Horse-therapy software review
+
+A later discussion reviewed three horse-related software/web projects:
+
+- `LucianoWagner/CedicaProject`;
+- `Angakess/horse-therapy-center`;
+- the uploaded `hlasKonskehoSrdce.rar` static website archive.
+
+The two public GitHub projects demonstrate institutional patterns such as participant/rider records, horse management, team/staff records, finance, content publishing, reporting and a separate public portal. The static archive demonstrates a much simpler brochure-site pattern.
+
+Because no repository-level licence was visible in the reviewed GitHub roots and no licence notice was found in the inspected static archive code, JoshHorses should learn from **architecture and workflows** without copying or redistributing source code, text, branding, templates or images.
+
+A clean-room interactive explainer is maintained in `software-lab/`, with the detailed review in `archive/software-and-copyright-review-2026-09-15.md` and reusable design lessons in `resources/software-patterns.md`.
+
 ## Separation rule
 
 The `resources/` folder should contain material that helps understand equine-assisted therapy, learning, welfare, evidence or professional practice.
 
 This `archive/` file can keep broader horse history, fiction and adjacent interests without allowing them to be mistaken for clinical evidence.
+
+JoshHorses should remain primarily participant-facing and educational. If private progress or completed session tracking is added later, it should stay separate from this public repository and should not expose therapy notes or health information.
