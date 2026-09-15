@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#173f35" />
+  <title>Horse Therapy Software Lab | JoshHorses</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="eyebrow">JoshHorses · software lab</div>
+    <h1>Horse therapy software explorer</h1>
+    <p class="lede">A clean-room, from-scratch interactive demo showing how three horse-related projects are structured. It does not copy or redistribute their source code or images.</p>
+    <div class="notice"><strong>Copyright note:</strong> the two public GitHub repositories reviewed here do not show a repository-level licence file. Publicly viewable code is still copyrighted unless a licence or permission grants reuse.</div>
+  </header>
+
+  <main>
+    <nav class="tabs" aria-label="Project selector">
+      <button class="tab active" data-project="cedica">CEDICA</button>
+      <button class="tab" data-project="angakess">Horse Therapy Center</button>
+      <button class="tab" data-project="czech">Czech static site</button>
+    </nav>
+
+    <section class="project-card" id="projectCard" aria-live="polite"></section>
+
+    <section class="demo-grid">
+      <article class="panel">
+        <div class="panel-head"><div><div class="eyebrow">Interactive mock</div><h2>Public portal</h2></div><span class="badge">safe demo data</span></div>
+        <div class="route-tabs" id="routeTabs"></div>
+        <div class="phone" id="portalDemo"></div>
+      </article>
+
+      <article class="panel">
+        <div class="panel-head"><div><div class="eyebrow">Interactive mock</div><h2>Admin workflow</h2></div><span class="badge">no logins</span></div>
+        <div class="module-tabs" id="moduleTabs"></div>
+        <div class="admin-demo" id="adminDemo"></div>
+      </article>
+    </section>
+
+    <section class="panel architecture">
+      <div class="panel-head"><div><div class="eyebrow">Architecture</div><h2>How the pieces connect</h2></div></div>
+      <div class="flow" id="architectureFlow"></div>
+      <p class="small" id="architectureNote"></p>
+    </section>
+
+    <section class="panel legal">
+      <div class="panel-head"><div><div class="eyebrow">Reuse status</div><h2>What you can safely do</h2></div></div>
+      <div class="legal-grid">
+        <div><strong>Read and study</strong><span>Yes. Public GitHub repositories are there to be viewed and inspected.</span></div>
+        <div><strong>Run locally for evaluation</strong><span>Usually reasonable as technical evaluation, subject to applicable law and terms.</span></div>
+        <div><strong>Copy into JoshHorses</strong><span>Not unless the author grants a suitable licence or permission.</span></div>
+        <div><strong>Publicly redeploy their code</strong><span>Not from these repositories on the evidence reviewed here; that would redistribute the work.</span></div>
+      </div>
+      <p class="small">This page is an original explanatory prototype, not legal advice and not a substitute for checking the repository owners' permissions.</p>
+    </section>
+
+    <section class="panel sources">
+      <div class="panel-head"><div><div class="eyebrow">Original projects</div><h2>Inspect the sources</h2></div></div>
+      <div class="source-links">
+        <a href="https://github.com/LucianoWagner/CedicaProject" target="_blank" rel="noreferrer">LucianoWagner/CedicaProject ↗</a>
+        <a href="https://github.com/Angakess/horse-therapy-center" target="_blank" rel="noreferrer">Angakess/horse-therapy-center ↗</a>
+      </div>
+    </section>
+  </main>
+
+  <footer><strong>JoshHorses</strong> · clean-room software explorer · no third-party source or imagery copied into this demo</footer>
+  <script src="./app.js"></script>
+</body>
+</html>
